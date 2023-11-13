@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "874526624526",
+    "project_id": "geolocalizacion-1cda8",
+    "storage_bucket": "geolocalizacion-1cda8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874526624526:android:cdd8bdbb51a14a740c655f",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874526624526-8mbqnkdd0lorcu11thcqg8qlbqki50s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeCLaU9fiECrU0IOTJdz_tCivI9pZAPK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874526624526-8mbqnkdd0lorcu11thcqg8qlbqki50s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
